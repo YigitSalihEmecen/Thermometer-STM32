@@ -1,0 +1,2 @@
+../Core/Src/conversions.c:12:6:int_to_string	4
+../Core/Src/conversions.c:51:6:float_to_string	5

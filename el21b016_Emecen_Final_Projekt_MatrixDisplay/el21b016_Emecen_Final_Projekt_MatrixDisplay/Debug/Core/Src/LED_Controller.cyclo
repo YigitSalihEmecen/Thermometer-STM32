@@ -1,0 +1,4 @@
+../Core/Src/LED_Controller.c:29:6:set_modes_from_datasheet_MATRIX	1
+../Core/Src/LED_Controller.c:94:6:set_degree_symbol	1
+../Core/Src/LED_Controller.c:99:6:set_number	2
+../Core/Src/LED_Controller.c:110:6:set_led	1
